@@ -10,12 +10,22 @@ body {
 	background-color: rgb(20, 20, 20);
 }
 
-.head {
+.head, .name {
 	font-family: "Bai Jamjuree";
 	color: #fff;
-	font-size: 4rem;
-	margin: 10rem 15rem 2rem 15rem;
+
 }
+
+.head {
+	font-size: 4rem;
+	margin: 10rem 15rem 1rem 15rem;
+}
+
+.name {
+	font-size: 1.8rem;
+	margin: 0 0 0 15rem;
+}
+
 
 .gallery {
 	margin: 2rem 15rem;
