@@ -12,16 +12,17 @@ body {
 
 .head, .name {
 	font-family: "Bai Jamjuree";
-	color: #fff;
 
 }
 
 .head {
+	color: #fff;
 	font-size: 4rem;
 	margin: 10rem 15rem 1rem 15rem;
 }
 
 .name {
+	color: rgb(199, 139, 36);
 	font-size: 1.8rem;
 	margin: 0 0 0 15rem;
 }
